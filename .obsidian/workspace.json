@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2076fbc8c7dfc8de",
+        "id": "1c03279c2cd7034e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4ebb9769a55fa2",
+            "id": "c89aac5abaa549ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UdeC/Nota de prueba.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nota de prueba"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -174,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -183,12 +180,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fa4ebb9769a55fa2",
+  "active": "c89aac5abaa549ba",
   "lastOpenFiles": [
+    "UdeC/Nota de prueba.md",
     "README.md",
     "desktop.ini",
     "Bienvenido.md",
-    "UdeC/Nota de prueba.md",
     "UdeC"
   ]
 }
