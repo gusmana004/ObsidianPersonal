@@ -1,0 +1,29 @@
+
+### Crisis de Movilidad en San Pedro de la Paz
+
+La congestión vial en San Pedro de la Paz es el desafío de infraestructura más crítico del Biobío, mermando la productividad y calidad de vida urbana. Ejes como la Ruta 160 y Av. Pedro Aguirre Cerda colapsan ante la saturación de vehículos particulares, carga industrial y un transporte público deficiente.
+
+Ante la histórica falta de planificación basada en datos, surgió el "City Lab Biobío". Este centro de transferencia tecnológica con el MIT utiliza plataformas como CityScope para simular y anticipar impactos urbanos mediante modelos matemáticos.
+
+Un hito clave es el Visor de Tráfico y Accidentes, desarrollado con Waze, que monitorea dinámicamente atascos y siniestros. Sin embargo, al ser una herramienta descriptiva, surge un nicho para memorias de Ingeniería Civil Informática: evolucionar hacia arquitecturas predictivas y de optimización estocástica para la mitigación activa de la crisis.
+
+### 1.2 Propuesta Temática 2: Simulación Microscópica Basada en Agentes para la Evaluación del Impacto Redistributivo del Puente Industrial
+
+El tejido de infraestructura del Gran Concepción se encuentra ad portas de una alteración masiva. El proyecto concesionado del Puente Industrial, emplazado sobre el Río Biobío, promete una solución de desvío para el tráfico de carga pesada que actualmente colapsa los viaductos céntricos y las avenidas principales de San Pedro de la Paz.2 Sin embargo, la teoría moderna de la economía del transporte demuestra que la adición irrestricta de capacidad vial casi siempre induce nueva demanda latente y, peor aún, altera dramáticamente los cuellos de botella trasladándolos hacia vías arteriales menores o ramales de salida. La comunidad de San Pedro de la Paz ha expresado profunda preocupación respecto a cómo los flujos redirigidos desde el Puente Industrial interactuarán con enclaves residenciales hiperdensos como Boca Sur o Candelaria.24
+
+Esta propuesta académica busca que el estudiante estructure un entorno virtual de simulación microscópica fundamentado en el paradigma del Modelamiento Basado en Agentes (Agent-Based Modeling, ABM) para cuantificar estocásticamente el reordenamiento del tráfico intra-comunal posterior a la habilitación de nuevas infraestructuras logísticas. El desarrollo se alejaría del software de planificación estática tradicional (enfoques macroscópicos) para adoptar herramientas algorítmicas dinámicas de código abierto como Eclipse SUMO (Simulation of Urban MObility) o MATSim (Multi-Agent Transport Simulation).
+
+El esfuerzo de la memoria de título no consiste meramente en el uso de la interfaz gráfica de dichos simuladores, sino en el desarrollo de los algoritmos subyacentes de generación de demanda y enrutamiento inteligente. El informático deberá procesar datos de censos poblacionales del Instituto Nacional de Estadísticas, encuestas origen-destino de la Secretaría Interministerial de Planificación de Transporte (SECTRA) y registros abiertos de matrices de viaje. A través de programación en Python o Java, se sintetizará una población virtual donde cada vehículo será representado como un agente autónomo discreto. Estos agentes poseerán funciones de utilidad y algoritmos de optimización (por ejemplo, el algoritmo de Dijkstra dinámico o A* modificado) que ponderarán continuamente los costos de viaje, evaluando el peaje económico del Puente Industrial frente a los costos temporales de soportar la congestión en la Ruta 160.
+
+La implicancia de este simulador será entregar a los organismos públicos de la Región del Biobío una herramienta alineada con la filosofía "CityScope" del MIT promovida localmente.4 Permitirá someter la red vial de San Pedro de la Paz a múltiples escenarios contrafactuales iterativos, descubriendo ramales críticos que colapsarán bajo el nuevo esquema y justificando, matemáticamente, la inversión anticipada en infraestructura suplementaria o rediseños de ingeniería de detalle en los empalmes locales.
+
+
+| Matriz Descriptiva de Soluciones Tecnológicas para el Eje de Movilidad Urbana en San Pedro de la Paz | Detalle de Arquitectura y Complejidad                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fuentes de Datos Maestras                                                                            | API Waze, City Lab Biobío, UOCT Biobío, Censo Nacional, Indicadores Macroeconómicos (CNE, Banco Central).21                                                   |
+| Propuesta 1: Algoritmos de Predicción Profunda                                                       | Uso intensivo de STGCN o LSTMs; arquitecturas tolerantes a ruido de datos espaciales. Optimización de tensores en GPU.                                        |
+| Propuesta 2: Modelado de Agentes (ABM)                                                               | Programación orientada a objetos estocástica; algoritmos de ruteo dinámico con funciones de costos penalizadas. Carga computacional intensiva de memoria RAM. |
+| Propuesta 3: Modelos Causales Económicos                                                             | Estadísticas Bayesianas, Diferencias en Diferencias, Clustering espacial DBSCAN. Fuerte componente de ingeniería de características (Feature Engineering).    |
+| Alineación Académica Institucional                                                                   | Profundamente ligada a las directrices de analítica avanzada y sistemas complejos impulsados por las directrices curriculares del DIICC.7                     |
+
+
