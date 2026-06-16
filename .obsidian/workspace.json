@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero).md",
+                "file": "UdeC/CYSE/ElectriccMotors/Page/Inspection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero)"
+              "title": "Inspection"
             }
           }
         ]
@@ -180,21 +180,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c89aac5abaa549ba",
   "lastOpenFiles": [
+    "README.md",
+    "UdeC/CYSE/ElectriccMotors/Page/Inspection.md",
+    "UdeC/CYSE/ElectriccMotors/Plataform",
+    "UdeC/CYSE/ElectriccMotors/Page",
+    "UdeC/CYSE/ElectriccMotors",
+    "UdeC/CYSE/Untitled.md",
+    "UdeC/CYSE",
+    "Bienvenido.md",
+    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero).md",
     "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Transformación Digital e Inteligencia Artificial en el Núcleo Logístico e Industrial del Biobío Sin título.md",
     "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Informática Urbana y la Crisis de Movilidad en San Pedro de la Paz.md",
-    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero).md",
     "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)",
     "UdeC/TESIS",
     "UdeC/TESIS-20260604T133819Z-3-001.zip",
     "UdeC/Nota de prueba.md",
-    "README.md",
     "desktop.ini",
-    "Bienvenido.md",
     "UdeC"
   ]
 }
