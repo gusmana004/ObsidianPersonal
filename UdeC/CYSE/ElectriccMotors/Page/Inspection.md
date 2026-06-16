@@ -1,0 +1,12 @@
+ WhatWeb es una herramienta de identificación de sitios web que ayuda a descubrir tecnologías, servicios y plataformas utilizadas en un servidor web. Link: https://github.com/urbanadventurer/WhatWeb.git
+- Command: whatweb https://emdesigner.software/
+	- https://emdesigner.software/ [200 OK] 
+	- CloudFlare, 
+	- Country[RESERVED][ZZ], 
+	- Frame, 
+	- HTML5, 
+	- HTTPServer[cloudflare], 
+	- IP[172.67.157.227], 
+	- PoweredBy[peer-reviewed],
+	- Script, 
+	- Title[e-Machine Designer — Electric Machine Design Software (EMDS)], UncommonHeaders[x-content-type-options,report-to,nel,access-control-allow-origin,referrer-policy,link,cf-cache-status,cf-ray,alt-svc]
