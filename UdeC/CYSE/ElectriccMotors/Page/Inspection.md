@@ -10,3 +10,6 @@
 	- PoweredBy[peer-reviewed],
 	- Script, 
 	- Title[e-Machine Designer — Electric Machine Design Software (EMDS)], UncommonHeaders[x-content-type-options,report-to,nel,access-control-allow-origin,referrer-policy,link,cf-cache-status,cf-ray,alt-svc]
+
+### Nivel 4 de Agresividad (Heavy)
+El nivel 4 es el modo más exhaustivo y ruidoso de WhatWeb. A diferencia de los niveles inferiores, este nivel ejecuta pruebas agresivas de **todos** los plugins disponibles contra **todas** las URLs del objetivo, sin importar si hubo coincidencias previas. Esto implica realizar una gran cantidad de peticiones HTTP, lo que lo hace ideal para una inspección profunda pero aumenta el riesgo de ser bloqueado por sistemas de seguridad (IDS/WAF).
