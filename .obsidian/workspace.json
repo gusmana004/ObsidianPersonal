@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UdeC/CYSE/ElectriccMotors/Page/Inspection.md",
-                "mode": "source",
+                "file": "UdeC/CYSE/ElectriccMotors/Page/Scanning Ports.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inspection"
+              "title": "Scanning Ports"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "c89aac5abaa549ba",
   "lastOpenFiles": [
-    "README.md",
     "UdeC/CYSE/ElectriccMotors/Page/Inspection.md",
+    "UdeC/CYSE/ElectriccMotors/Page/Scanning Ports.md",
+    "README.md",
     "UdeC/CYSE/ElectriccMotors/Plataform",
     "UdeC/CYSE/ElectriccMotors/Page",
     "UdeC/CYSE/ElectriccMotors",
