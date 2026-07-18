@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b38430d3db3b3c12",
+    "id": "692a67f60e428457",
     "type": "split",
     "children": [
       {
-        "id": "1c03279c2cd7034e",
+        "id": "cbd06b938db2e4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa13cc1ec039889",
+            "id": "22b07f8902a45812",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "428da661c56810d4",
+    "id": "c6609759c02ac3c3",
     "type": "split",
     "children": [
       {
-        "id": "313e814cfd16fbf0",
+        "id": "3d47b1cde7dfa238",
         "type": "tabs",
         "children": [
           {
-            "id": "7950fef3d5388ed2",
+            "id": "a1bc3ff55a8b6f60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "c67843019355b2d5",
+            "id": "50da60cdfd2ef96b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,40 +57,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "1825b3afa5c4f36e",
+            "id": "393b0398d5e8be4b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5f705f31bea1cf14",
+    "id": "85b69676f1839997",
     "type": "split",
     "children": [
       {
-        "id": "4077df968e78ad6c",
+        "id": "230a2260de124024",
         "type": "tabs",
         "children": [
           {
-            "id": "6cbef24af00c2a94",
+            "id": "b19ba0a7172eaab3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Books/Carrer/Linux Pocket Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux Pocket Guide"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "959b43285989d704",
+            "id": "53cb3549e03ebf1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UdeC/Nota de prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Nota de prueba"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4ff627b960df7e9d",
+            "id": "4a720eb24144b2e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,11 +127,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "21913c87ed2310c6",
+            "id": "4c51f2ea068505a5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +145,21 @@
             }
           },
           {
-            "id": "31b78cec052a5c13",
+            "id": "de9da8291b257bec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UdeC/Nota de prueba.md",
+                "file": "Personal/Books Software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Nota de prueba"
+              "title": "Outline of Books Software"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,35 +178,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfa13cc1ec039889",
+  "active": "a1bc3ff55a8b6f60",
   "lastOpenFiles": [
-    "Personal/Books/Carrer/Linux Pocket Guide.md",
-    "Personal/Books/Carrer/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.md",
-    "Personal/Books/Carrer/Version Control with Git.md",
-    "Personal/Books/Carrer/Fluent Python.md",
-    "Personal/Books/Carrer/Zero Trust Networks.md",
-    "Personal/Books/Carrer/Network Security Assessment.md",
-    "Personal/Books Software.md",
-    "Personal/Books/Personal/1984.md",
-    "Personal/Books Personal.md",
-    "Personal/Books/Carrer",
-    "Personal/Books/Personal",
-    "Personal/Books",
-    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero).md",
-    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Informática Urbana y la Crisis de Movilidad en San Pedro de la Paz.md",
-    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Transformación Digital e Inteligencia Artificial en el Núcleo Logístico e Industrial del Biobío Sin título.md",
-    "README.md",
-    "Personal",
-    "UdeC/CYSE/ElectriccMotors/Page/Inspection.md",
-    "UdeC/CYSE/ElectriccMotors/Page/Scanning Ports.md",
-    "UdeC/CYSE/ElectriccMotors/Page/OWAS ZAP.md",
-    "UdeC/CYSE/ElectriccMotors/Page",
-    "UdeC/CYSE/ElectriccMotors",
-    "UdeC/CYSE",
-    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)",
-    "UdeC/TESIS",
-    "UdeC/TESIS-20260604T133819Z-3-001.zip",
-    "UdeC/Nota de prueba.md",
-    "Bienvenido.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
