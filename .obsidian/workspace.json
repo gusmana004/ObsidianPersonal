@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comands Basics LazyVim.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comands Basics LazyVim"
+              "title": "README"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "5185aef50201ee12",
   "lastOpenFiles": [
-    "README.md",
     "Comands Basics LazyVim.md",
+    "README.md",
     "Personal/Books/Carrer/Linux Pocket Guide.md",
     "conflict-files-obsidian-git.md"
   ]
